@@ -1,9 +1,8 @@
 jquery.placeholder.js
 
-=== about
 jQuery plugin to add HTML5 placeholder support for browser yet to implement it
 
-=== usage
+usage
   <html>
     <head>
       <script type="text/javascript" src="jquery.js"></script>
